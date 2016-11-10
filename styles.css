@@ -54,7 +54,7 @@ h2 {
   left: 150px;
 }
 
-div {
+.triangle {
   width: 0;
 height: 0;
 border-style: solid;
@@ -63,4 +63,14 @@ border-color: lightgray transparent;
 position: relative;
 top: 440px;
 left: 365px;
+}
+
+.line-separator {
+
+height:1px;
+
+background:#717171;
+
+border-bottom:1px solid #313030;
+
 }
