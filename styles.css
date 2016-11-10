@@ -1,0 +1,66 @@
+
+h1 {
+  background-color: lightgray;
+  position: relative;
+  top: 115px;
+}
+
+nav {
+  list-style: none;
+  position: relative;
+  top:50px;
+  left: 1150px;
+
+}
+
+body {
+list-style: none;
+display: inline;
+position: relative;
+bottom: 150px;
+
+}
+
+.main-cat {
+border:1px solid black;
+width: 400px;
+position: relative;
+bottom: 40px;
+float: left;
+margin-bottom: 85px;
+
+}
+
+.icon {
+  width: 30px;
+  position: relative;
+  top: 375px;
+  right: 35px;
+  float: left;
+
+}
+
+ul {
+  list-style: none;
+}
+
+.row {
+  display: inline;
+}
+
+h2 {
+  position: relative;;
+  top:425px;
+  left: 150px;
+}
+
+div {
+  width: 0;
+height: 0;
+border-style: solid;
+border-width: 35px 19px 0 19px;
+border-color: lightgray transparent;
+position: relative;
+top: 440px;
+left: 365px;
+}
