@@ -48,11 +48,28 @@ ul {
   display: inline;
 }
 
-h2 {
-  position: relative;;
+.one {
+  position: relative;
+  top:520px;
+  left: 1010px;
+}
+
+.two {
+  position: relative;
+  top:470px;
+  left: 595px;
+}
+
+.three {
+  position: relative;
   top:425px;
   left: 150px;
 }
+
+
+
+
+
 
 .triangle {
   width: 0;
@@ -63,14 +80,4 @@ border-color: lightgray transparent;
 position: relative;
 top: 440px;
 left: 365px;
-}
-
-.line-separator {
-
-height:1px;
-
-background:#717171;
-
-border-bottom:1px solid #313030;
-
 }
